@@ -1,5 +1,5 @@
 # colorizr
-    String class extension for colorizing your terminal output.
+String class extension for colorizing your terminal output.
     
 # Usage
 ```
