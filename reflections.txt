@@ -1,0 +1,8 @@
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+  - Yes
+How long did you spend working on this project?
+  - 3 hours
+What was the most rewarding challenge you conquered?
+  - Using the send method
+Where do you still have room to grow?
+  - Publish more gems to the community! :-)
