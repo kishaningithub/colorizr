@@ -16,7 +16,7 @@ class String
   end
   private
     def self.color_hash
-     {
+      {
         red: 31,
         green: 32,
         yellow: 33,
@@ -26,8 +26,8 @@ class String
         white: 97,
         light_grey: 37,
         black: 30
-     }
-   end
+      }
+    end
 end
 String.create_colors
 
