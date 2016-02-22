@@ -11,11 +11,11 @@ String class extension for colorizing your terminal output.
 ```
 Class methods
 ```
-  String.sample_colors - should print sample output demonstrating all the colors
-  String.colors - should return an Array of all the color options
+  String.sample_colors - Prints sample output demonstrating all the colors
+  String.colors - Returns an Array of all the color options
 ```
 
 # Installation
 ```
-gem install colorizr
+  gem install colorizr
 ```
