@@ -1,5 +1,5 @@
 # colorizr
-String class extension for colorizing your terminal output.
+A simple gem to colorize terminal output.
     
 # Usage
 ```
